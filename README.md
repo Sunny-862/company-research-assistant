@@ -273,7 +273,8 @@ For each competitor, the application provides:
 ---
 
 ### 7️⃣ PDF Report Generation
-<img width="1196" height="911" alt="Screenshot (1127)" src="https://github.com/user-attachments/assets/169d5757-9ee5-41f5-b056-8cca3874fbde" />
+<img width="1920" height="1080" alt="Screenshot (1129)" src="https://github.com/user-attachments/assets/9a2b42fc-ee47-4b2b-aa48-6e7d9bbe37d3" />
+
 
 📄 A professional company research report is generated using **ReportLab**.
 
@@ -304,7 +305,7 @@ The generated PDF can be downloaded directly from the application.
 ## 📄 PDF Report Preview
 
 <p align="center">
-  <img width="1196" height="911" alt="Screenshot (1127)" src="https://github.com/user-attachments/assets/169d5757-9ee5-41f5-b056-8cca3874fbde" />
+ <img width="1920" height="1080" alt="Screenshot (1129)" src="https://github.com/user-attachments/assets/9a2b42fc-ee47-4b2b-aa48-6e7d9bbe37d3" />
 </p>
 
 > 📌 Replace `
