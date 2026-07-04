@@ -1,5 +1,6 @@
 import json
 import os
+import streamlit as st
 
 import requests
 from dotenv import load_dotenv
@@ -9,7 +10,7 @@ from utils.prompts import COMPANY_ANALYSIS_SYSTEM_PROMPT
 
 load_dotenv()
 
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+OPENROUTER_API_KEY = st.secrets["OPENROUTER_API_KEY"]
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
