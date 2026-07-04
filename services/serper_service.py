@@ -3,12 +3,13 @@ import re
 from urllib.parse import urlparse, urlunparse
 
 import requests
+import streamlit as st
 from dotenv import load_dotenv
 
 
 load_dotenv()
 
-SERPER_API_KEY = os.getenv("SERPER_API_KEY")
+SERPER_API_KEY = os.getenv("SERPER_API_KEY") or st.secrets.get("SERPER_API_KEY")
 SERPER_SEARCH_URL = "https://google.serper.dev/search"
 
 
