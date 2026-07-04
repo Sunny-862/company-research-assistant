@@ -1,7 +1,7 @@
 <h1 align="center">🔍 Research AI - AI-Powered Company Research Assistant</h1>
 
 <p align="center">
-  <b>Automated Company Research using Live Web Search, Website Crawling, AI Analysis & Competitor Intelligence</b>
+ 
 </p>
 
 <p align="center">
@@ -30,8 +30,7 @@ The project demonstrates an end-to-end workflow involving **web scraping, REST A
 ## 🖥️ Application Preview
 
 <p align="center">
-  <img src=" <img width="1920" height="897" alt="Screenshot (1125)" src="https://github.com/user-attachments/assets/a128422b-e205-4d23-86db-c6786eb144ba" />
-" alt="Research AI Application" width="100%">
+<img width="1920" height="897" alt="Screenshot (1125)" src="https://github.com/user-attachments/assets/60e8f4b9-e56c-48a3-9070-ac3e6f1cbb90" />
 </p>
 
 > 📌 Replace `YOUR_SCREENSHOT_URL_HERE` with the GitHub URL of your application screenshot.
